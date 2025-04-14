@@ -6,3 +6,5 @@ secrets.json
 .vscode
 config.txt
 *.png
+.DS_store
+__pycache__
